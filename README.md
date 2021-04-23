@@ -1,10 +1,4 @@
 ### Hello world! My name is Alexander.
-
-<!--
-**aleh-god/aleh-god** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- https://github.com/aleh-god/KingCalculationPoints
 - 🌱 I’m currently learning ...
 https://app.rs.school/
 - 📫 How to reach me: ...
