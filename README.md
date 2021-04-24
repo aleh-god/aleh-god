@@ -2,8 +2,8 @@
 ##### 🌱 I’m currently learning:
 - JavaSE (done)
 - Spring Framework (in progress)
-- Kotlin (in progress)
-- Android development (in progress)
+- Kotlin (live)
+- Android development (live)
 - Python (in project)
 - Data Analysis (in project)
 ##### 📫 How to reach me:
