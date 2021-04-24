@@ -1,9 +1,11 @@
 ### Hello world! My name is Alexander.
 ##### 🌱 I’m currently learning:
-- JavaSE
-- Spring Framework
-- Kotlin
-- Android development
+- JavaSE (done)
+- Spring Framework (in progress)
+- Kotlin (in progress)
+- Android development (in progress)
+- Python (in project)
+- Data Analysis (in project)
 ##### 📫 How to reach me:
 - **mail:** aleh.god@gmail.com
 - **social** vk.com/aleh.bogush
