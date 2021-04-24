@@ -1,6 +1,9 @@
 ### Hello world! My name is Alexander.
 ##### 🌱 I’m currently learning:
-- Rolling Scopes School
+- JavaSE
+- Spring Framework
+- Kotlin
+- Android development
 ##### 📫 How to reach me:
 - **mail:** aleh.god@gmail.com
 - **social** vk.com/aleh.bogush
