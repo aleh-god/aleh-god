@@ -7,7 +7,7 @@
 - Python (in project)
 - Data Analysis (in project)
 ##### 📫 How to reach me:
-- **mail:** aleh.god@gmail.com
+- **mail:** g0development2020@gmail.com
 - **social** vk.com/aleh.bogush
 - **discord:** Gen0ciD#9425
 ##### 😄 Pronouns:
