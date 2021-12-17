@@ -7,10 +7,11 @@
 - Python (in project)
 - Data Analysis (in project)
 ##### 📫 How to reach me:
-- **mail:** g0development2020@gmail.com
+- **mail:** 
+- g0development2020@gmail.com
 - **social:** 
--- vk.com/aleh.bogush
--- https://www.linkedin.com/in/aliaksandr-bohush
--- https://www.facebook.com/Libra.by
+- vk.com/aleh.bogush
+- https://www.linkedin.com/in/aliaksandr-bohush
+- https://www.facebook.com/Libra.by
 ##### 😄 Pronouns:
 - A long time ago, in 1998, I wanted to study programming, become a programmer and write my own version of Heroes of Might & Magic. To do this, I decided to enter the university of BSUIR at the Faculty of Computer Systems and Networks, but did not go through the competition among gold medal genius. My destiny has changed towards an ordinary engineer. But now, I am determined to change my life again, apply my life experience and knowledge to return to my childhood dream - to write my own version of Heroes of Might & Magic.
