@@ -1,8 +1,9 @@
-### Hello world!
+### Hello GitHub!
 
-<img src="https://github.com/aleh-god/aleh-god/blob/master/avatar.png" alt="Avatar" width="250"/>
+<img src="https://github.com/aleh-god/aleh-god/blob/master/avatar.png" width="250"/>
 
 My name is Alexander. I am Android Developer.
+
 Skills: Kotlin, Java, Android SDK, Android Components Jetpacks, ROOM, SQL, Retrofit, SOLID, Git, Design patterns.
 
 ##### 🌱 I’m currently learning:
