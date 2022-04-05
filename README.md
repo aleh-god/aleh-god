@@ -2,7 +2,7 @@
 
 <p><img src="https://github.com/aleh-god/aleh-god/blob/main/avatar.png" width="200" height="200" alt=""></p>
 
-My name is Alexander. I am Android Developer.
+My name is Alexander. I love Kotlin. Developer for Android. I'm interested in game design. Looking for a job. I pray for peace.
 
 ### Skills:
 
