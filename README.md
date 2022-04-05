@@ -1,6 +1,6 @@
 ### Hello GitHub!
 
-<p><img src="https://github.com/aleh-god/aleh-god/blob/master/avatar.png" width="450" height="450" alt=""></p>
+<p><img src="https://github.com/aleh-god/aleh-god/blob/main/avatar.png" width="200" height="200" alt=""></p>
 
 My name is Alexander. I am Android Developer.
 
