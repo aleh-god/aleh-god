@@ -30,11 +30,14 @@ My name is Alexander. I love Kotlin. Developer for Android. Looking for a job. I
 
 ##### 😄 Pronouns:
 
-- I am an android developer with an engineering background. I have been developing applications for 9 months.
+- I am an Android developer with 12 months of experience developing applications. I am working with the core libraries Retrofit, Room, Hilt, Dagger, Android Jetpack. I follow SOLID principles, clean architecture in my projects and also actively use Kotlin language and coroutines features in my code.
 
-- During this time, I have achieved the following results: Application guide to tourist places in Belarus, Application for tracking the exchange rates of the National Bank, News reader with automatic feed update function, Assistant program for the King card game. As well as a large list of smaller tasks using Google maps, Firebase, Media player and others technologies.
+- At the moment, I continue to learn new technologies Compose and app modularization, practice daily programming, and looking for work.
 
-- At the moment, I continue to develop my programming skills and am looking for work in commercial projects. I am ready to offer an employer a good combination of technical skills and personal experience.
+##### Personal project:
+
+My personal project is an assistant app for the card game King. Score calculator that uses complex game logic and validation of entered data. With the function of saving the history of games in the database of the application and calculation of game statistics.
+https://play.google.com/store/apps/details?id=by.godevelopment.kingcalculator&pli=1
 
 ##### Hobbies:
 - I will always be happy to communicate with friends interested in science and fantasy fiction, narrative creation and game-design. I'm ready to discuss the collection of figures from Warhammer 40K. I will gladly keep company for board games or computer strategies.
