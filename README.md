@@ -6,20 +6,23 @@ My name is Alexander. I love Kotlin. Developer for Android. Looking for a job. I
 
 ### Skills:
 
- - Kotlin, Java, Retrofit, Room, Hilt, Dagger 2, coroutines
- - Android Jetpack (LiveData, View binding, Data binding, Paging, WorkManager), Compose, Navigation, Google maps, MVP, MVI, MVVM
+ - Kotlin, Java, Retrofit, Room, Hilt, Dagger 2, Coroutines, Rx-Java, Compose
+ - Android Jetpack (LiveData, View binding, Data binding, Paging, WorkManager, Navigation), Google maps, MVP, MVI, MVVM
  - SOLID, clean architecture, design patterns, git, bitbucket
 
 ##### 🌱 I’m currently learning:
 
 - JavaSE (done)
+- Rx-Java (done)
 - Kotlin (live)
+- Compose (live)
 - Android development (live)
 
+- KMP (in project)
 - Ktor (in project)
 - Spring Framework (in project)
 - Python (in project)
-- Data science (in project)
+- Data science way (in project)
 
 ##### 📫 How to reach me:
 
@@ -30,7 +33,7 @@ My name is Alexander. I love Kotlin. Developer for Android. Looking for a job. I
 
 ##### 😄 Pronouns:
 
-I am an Android developer with 12 months of experience developing applications. I am working with the core libraries Retrofit, Room, Hilt, Dagger, Android Jetpack. I follow SOLID principles, clean architecture in my projects and also actively use Kotlin language and coroutines features in my code.
+I am an Android developer with a lot of experience developing applications. I am working with the core libraries Retrofit, Room, Hilt, Dagger, Android Jetpack. I follow SOLID principles, clean architecture in my projects and also actively use Kotlin language and coroutines features in my code.
 
 At the moment, I continue to learn new technologies Compose and app modularization, practice daily programming, and looking for work.
 
