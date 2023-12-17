@@ -2,7 +2,7 @@
 
 <p><img src="https://github.com/aleh-god/aleh-god/blob/main/avatar.png" width="200" height="200" alt=""></p>
 
-My name is Alexander. I love Kotlin. Developer for Android. Looking for a job. I pray for peace.
+My name is Alexander. I am an Android developer. I like to use Kotlin. I pray for peace in the world.
 
 ### Skills:
 
@@ -33,7 +33,7 @@ My name is Alexander. I love Kotlin. Developer for Android. Looking for a job. I
 
 ##### 😄 Pronouns:
 
-I am an Android developer with a lot of experience developing applications. I am working with the core libraries Retrofit, Room, Hilt, Dagger, Android Jetpack. I follow SOLID principles, clean architecture in my projects and also actively use Kotlin language and coroutines features in my code.
+I am an engineer and Android developer. I have a lot of experience working with the core libraries: Android Jetpack, Dagger, Retrofit, okHttp, SQLite, Glide, MockK and others. I follow SOLID principles, clean architecture in my projects and also actively use Kotlin language and coroutines features in my code.
 
 At the moment, I continue to learn new technologies Compose and app modularization, practice daily programming, and looking for work.
 
